@@ -1,0 +1,109 @@
+<resources>
+    <string name="app_name">Cruddy\'s Pizzeria</string>
+    <!--Toppings English-->
+    <string-array name="top">
+        <item>None</item>
+        <item>Pepperoni</item>
+        <item>Cheese</item>
+        <item>Bacon</item>
+        <item>Ham</item>
+        <item>Bologna</item>
+        <item>Spinach</item>
+    </string-array>
+    <!--Toppings French-->
+    <string-array name="top2">
+        <item>Aucun</item>
+        <item>Pepperoni</item>
+        <item>Fromage</item>
+        <item>Lard</item>
+        <item>Jambon</item>
+        <item>Bologne</item>
+        <item>Épinard</item>
+    </string-array>
+    <!--Sizes English-->
+    <string-array name="sizes">
+        <item>SM</item>
+        <item>MD</item>
+        <item>LG</item>
+    </string-array>
+    <!--Sizes French-->
+    <string-array name="sizes2">
+        <item>PT</item>
+        <item>MOY</item>
+        <item>GRDE</item>
+    </string-array>
+    <!--General Strings - English-->
+    <string name="langPref">Language preference saved.</string>
+    <string name="orderError">All fields must be filled before ordering</string>
+    <!--General Strings - French-->
+    <string name="langPref2">Préférence de langue enregistrée.</string>
+    <string name="orderError2">Tous les champs doivent être remplis avant de commander</string>
+    <!--Launch Page - English-->
+    <string name="tvWelcome">Welcome</string>
+    <string name="tvTo">To</string>
+    <string name="tvCruddysPizza">Cruddy\'s Pizzeria</string>
+    <string name="tvSlogan">\"It\'s not great, but it\'s not terrible!\"</string>
+    <string name="btnStart">Start Order</string>
+    <string name="btnViewOrders">View Orders</string>
+    <string name="btnTranslate">EN/FR</string>
+    <string name="tvBuiltBy">Built by Owen Jones</string>
+    <!--Launch Page - French-->
+    <string name="tvWelcome2">Bienvenue</string>
+    <string name="tvTo2">à</string>
+    <string name="tvSlogan2">\"C\'est pas génial, mais c\'est pas terrible !\"</string>
+    <string name="btnStart2">Ordre</string>
+    <string name="btnViewOrders2">Voir les commandes</string>
+    <string name="tvBuiltBy2">Construit par Owen Jones</string>
+    <!--Order Page - English-->
+    <string name="tvYourOrder">Your Order:</string>
+    <string name="tvName">Name:</string>
+    <string name="etNameHint">Enter name</string>
+    <string name="tvNameError">Enter letters only</string>
+    <string name="tvSize">Size:</string>
+    <string name="tvSizeError">Select size</string>
+    <string name="tvTopp1">Topping 1</string>
+    <string name="tvTopp2">Topping 2</string>
+    <string name="tvTopp3">Topping 3</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="btnOrder">Order</string>
+    <string name="spHint">Select topping</string>
+    <string name="OrderError">Order submission failed. Try again.</string>
+    <!--Order Page - French-->
+    <string name="tvYourOrder2">Votre commande:</string>
+    <string name="tvName2">Nom:</string>
+    <string name="etNameHint2">Entrez le nom</string>
+    <string name="tvNameError2">Saisir uniquement des lettres</string>
+    <string name="tvSize2">Taille:</string>
+    <string name="tvSizeError2">sélectionnez la taille</string>
+    <string name="tvTopp1_2">Garniture 1</string>
+    <string name="tvTopp2_2">Garniture 2</string>
+    <string name="tvTopp3_2">Garniture 3</string>
+    <string name="btnCancel2">Annuler</string>
+    <string name="btnOrder2">Ordre</string>
+    <string name="spHint2">Sélectionner la garniture</string>
+    <string name="OrderError2">La soumission de la commande a échoué. Réessayer.</string>
+    <!--Display Orders Page - English-->
+    <string name="tvYourOrders">Your Orders</string>
+    <string name="tvToppings">Toppings:</string>
+    <!--Display Orders Page - French-->
+    <string name="tvYourOrders2">Vos commandes</string>
+    <string name="tvToppings2">Garnitures:</string>
+    <!--Order Details Page - English-->
+    <string name="tvOrderDetails">Order Details:</string>
+    <string name="btnEdit">Edit</string>
+    <string name="btnDelete">Delete</string>
+    <string name="btnSave">Save</string>
+    <string name="OrderUpdateSuccess">Order updated successfully.</string>
+    <string name="OrderUpdateFail">Order updated successfully.</string>
+    <string name="OrderDeleteSuccess">Order deleted successfully.</string>
+    <string name="OrderDeleteFail">Order deletion failed.</string>
+    <!--Order Details Page - French-->
+    <string name="tvOrderDetails2">Détails:</string>
+    <string name="btnEdit2">Éditer</string>
+    <string name="btnDelete2">Effacer</string>
+    <string name="btnSave2">Confirmer</string>
+    <string name="OrderUpdateSuccess2">Commande mise à jour avec succès.</string>
+    <string name="OrderUpdateFail2">Commande mise à jour avec succès.</string>
+    <string name="OrderDeleteSuccess2">Commande supprimée avec succès.</string>
+    <string name="OrderDeleteFail2">La suppression de la commande a échoué.</string>
+</resources>
